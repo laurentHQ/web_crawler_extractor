@@ -1,0 +1,7 @@
+https://www.python.org/about/
+https://www.python.org/downloads/
+
+[exclude_keywords]
+release
+windows
+macos 

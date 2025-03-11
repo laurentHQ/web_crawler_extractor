@@ -1,0 +1,2 @@
+https://www.python.org/about/
+https://www.python.org/downloads/
