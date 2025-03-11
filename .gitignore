@@ -38,3 +38,5 @@ crawler.log
 .cursor/
 .pytest_cache/
 .repomix-output.txt 
+.cursorrules
+saxo_api_urls.txt
